@@ -491,7 +491,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "MCUDataLoggerGerber/",
+      "plot": "4_layer_MCUDataLoggerGerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
