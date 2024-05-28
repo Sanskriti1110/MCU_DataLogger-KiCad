@@ -502,7 +502,7 @@
 			(pintype "power_in")
 			(uuid "79de3c98-b5e2-40fb-a62f-1d03f86e4b8f")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1768,7 +1768,7 @@
 			(pintype "passive")
 			(uuid "1befcca2-be9e-4480-9d98-fa7dc94f61ce")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3632,7 +3632,7 @@
 			(pintype "passive")
 			(uuid "443b4cf4-105f-4507-979a-112886705a3a")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5260,7 +5260,7 @@
 			(pintype "power_in")
 			(uuid "1bb2db5b-264b-4692-af75-4d87e691fd9e")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5651,6 +5651,17 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
 			(uuid "06632e6b-3ad1-4c0c-892e-0813265ce3ac")
+		)
+		(model "D:/KiCad/External Libraries/DS1337S/DS1337S.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "LED_SMD:LED_0805_2012Metric"
