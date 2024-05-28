@@ -4002,6 +4002,17 @@
 		)
 		(uuid "79c9f9ae-8ab2-48c9-aea3-267a9dc77bb7")
 	)
+	(label "Vcc"
+		(at 232.41 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "80daa13e-e3a8-43f0-8d0b-69d00f9ba712")
+	)
 	(label "MOSI"
 		(at 195.58 53.34 180)
 		(fields_autoplaced yes)
