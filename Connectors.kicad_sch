@@ -1214,7 +1214,7 @@
 		)
 		(uuid "eb246203-6ee6-4812-91d4-c4ed25a8e4fc")
 	)
-	(hierarchical_label "SCK"
+	(hierarchical_label "SCL"
 		(shape passive)
 		(at 194.31 77.47 0)
 		(fields_autoplaced yes)
